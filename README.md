@@ -12,18 +12,13 @@
 
 ### 💻 Developer & User & Learner of
 - Programming:
-  - Java ⭐
-  - Python ⭐
-  - R 
-  - C++ 
+  - Java ⭐, Python ⭐, R, C++ 
 
 - Web Development:
-  - HTML5, CSS, JavaScript
-  - [React-Bootstrap](https://react-bootstrap.github.io/)
+  - HTML5, CSS, JavaScript, [React-Bootstrap](https://react-bootstrap.github.io/)
 
 - Electronics
-  - Arduino
-  - Micro-Python
+  - Arduino, Micro-Python
 
 <code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
   <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
