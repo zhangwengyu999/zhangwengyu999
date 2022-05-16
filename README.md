@@ -4,18 +4,19 @@
 - A developer;
 - [More about me...](https://cv.ultrafish.cn)
 
----
-
-### 🌐 My Blog Website: [UltraFish.cn](https://ultrafish.cn)
+#### 🌐 My Blog Website: [UltraFish.cn](https://ultrafish.cn)
 
 ---
 
 ### 💻 Developer & User & Learner of
-- Programming: **Java** ⭐, **Python** ⭐, **R**, **C++**
+- Programming: 
+  - **Java** ⭐, **Python** ⭐, **R**, **C++**
 
-- Web Development: **HTML5**, **CSS**, **JavaScript**, [**React-Bootstrap**](https://react-bootstrap.github.io/)
+- Web Development: 
+  - **HTML5**, **CSS**, **JavaScript**, [**React-Bootstrap**](https://react-bootstrap.github.io/)
 
-- Electronics: **Arduino**, **Micro-Python**
+- Electronics: 
+  - **Arduino**, **Micro-Python**
 
 <code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
   <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -26,11 +27,19 @@
  
 ---
 
-### Projects I've done:
+### 🛠️ Projects I've done:
 - [UltraFish](https://ultrafish.cn), [UltraFish Plus](https://plus.ultrafish.cn)
 - [Command-Line Vector Graphics Software in Java](https://github.com/OOP-PROJECT-COMP2021/Command-Line_Vector_Graphics_Software.git)
 - [Workshops Enrollment System in Python](https://github.com/zhangwengyu999/Workshops_Enrollment_System_Project.git)
 - [Visit all project...](https://ultrafish.cn/project)
+
+---
+
+### 🌱 Currently Learning:
+- Data Structure and Algorithm
+- Vue
+- Machine Learning
+- ...
 
 <!-- 
 - 🔭 I’m currently working on ...
