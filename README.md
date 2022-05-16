@@ -12,17 +12,26 @@
 
 ### 💻 Developer & User & Learner of
 - Programming:
-  - <code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
-  <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-  <code><a href="https://www.r-project.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></a></code>
+  - Java ⭐
+  - Python ⭐
+  - R 
+  - C++ 
 
 - Web Development:
-  - <code><a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code> <code><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code> <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+  - HTML5, CSS, JavaScript
   - [React-Bootstrap](https://react-bootstrap.github.io/)
-- Electronics
-  - <code><a href="https://www.arduino.cc/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></a></code>
-  - <code><a href="https://micropython.org/" target="_blank"><img height="50" src="https://github.com/simple-icons/simple-icons/blob/master/icons/micropython.svg"></a></code> Micro-Python
 
+- Electronics
+  - Arduino
+  - Micro-Python
+
+<code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
+  <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+  <code><a href="https://www.r-project.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></a></code>
+  <code><a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code> <code><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code> <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://www.arduino.cc/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></a></code>
+ <code><a href="https://micropython.org/" target="_blank"><img height="50" src="https://github.com/simple-icons/simple-icons/blob/master/icons/micropython.svg"></a></code>
+ 
 ---
 
 ### Projects I've done:
