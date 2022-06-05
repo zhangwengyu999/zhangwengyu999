@@ -1,4 +1,4 @@
-### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm ZHANG Wengyu (张翁渔), Mike
+### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="5px"> Hi, I'm ZHANG Wengyu (张翁渔), Mike
 - A undergraduate student of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) majoring in [Computer Science](https://www.polyu.edu.hk/comp/);
 - The founder and author of [UltraFish](https://ultrafish.cn) and [UltraFish Plus](https://plus.ultrafish.cn);
 - A developer;
