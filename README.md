@@ -28,6 +28,7 @@
 ---
 
 ### 🛠️ Projects I've done:
+- [CV Chain - A Curriculum Vitae System based on Blockchain](https://github.com/Unhackable-PolyHack2022/CV-Chain.git)
 - [UltraFish](https://ultrafish.cn), [UltraFish Plus](https://plus.ultrafish.cn)
 - [Command-Line Vector Graphics Software in Java](https://github.com/OOP-PROJECT-COMP2021/Command-Line_Vector_Graphics_Software.git)
 - [Workshops Enrollment System in Python](https://github.com/zhangwengyu999/Workshops_Enrollment_System_Project.git)
