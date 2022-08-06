@@ -32,6 +32,7 @@
 ### 🛠️ Projects I've done:
 - [lighTag - An UWB Positioning System Integrated in Lighting System and its Applications](https://github.com/lighTag-UWB/lighTag)
 - [CV Chain - A Curriculum Vitae System based on Blockchain](https://github.com/Unhackable-PolyHack2022/CV-Chain.git)
+- [Game of Life - Implementation of the Conway's Game of Life in JavaScript with React](https://github.com/zhangwengyu999/Game_of_Life.git)
 - [UltraFish](https://ultrafish.cn), [UltraFish Plus](https://plus.ultrafish.cn)
 - [Command-Line Vector Graphics Software in Java](https://github.com/OOP-PROJECT-COMP2021/Command-Line_Vector_Graphics_Software.git)
 - [Workshops Enrollment System in Python](https://github.com/zhangwengyu999/Workshops_Enrollment_System_Project.git)
@@ -41,8 +42,9 @@
 
 ### 🌱 Currently Learning:
 - Data Structure and Algorithm
-- Vue
+- React
 - Machine Learning
+- Database System
 - ...
 
 <!-- 
