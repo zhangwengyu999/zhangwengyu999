@@ -1,13 +1,18 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="50px"> Hi, I'm ZHANG Wengyu (張翁漁), Mike
-- A undergraduate student of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) majoring in [Computer Science](https://www.polyu.edu.hk/comp/);
+- A undergraduate student at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) 
+  - **Major in [Computer Science](https://www.polyu.edu.hk/comp/)**;
+  - Minor in [Electronic Engineering](https://www.polyu.edu.hk/eie/);
 - The co-founder of [lighTag](https://github.com/lighTag-UWB);
 - The co-founder of [CV Chain](https://cvchain.skyproton.com/);
 - The founder and author of [UltraFish](https://ultrafish.cn) and [UltraFish Plus](https://plus.ultrafish.cn);
 - A developer;
-- [More about me on my homepage:](https://mike.ultrafish.cn)
 
-#### 🌐 My Homepage: [Mike.ultrafish.cn](https://mike.ultrafish.cn)
-#### 🌐 My Blog Website: [UltraFish.cn](https://ultrafish.cn)
+More about me on:
+
+#### 🌐 Personal Homepage: [Mike.ultrafish.cn](https://mike.ultrafish.cn)
+#### 🌐 Blog Website: [UltraFish.cn](https://ultrafish.cn)
+#### 🌐 Learning Topics: [ultrafish.cn/Topics](https://ultrafish.cn/topics)
+#### 🌐 Project & Research: [ultrafish.cn/Project](https://ultrafish.cn/project/#/)
 
 ---
 
@@ -37,7 +42,7 @@
 - [UltraFish](https://ultrafish.cn), [UltraFish Plus](https://plus.ultrafish.cn)
 - [Command-Line Vector Graphics Software in Java](https://github.com/OOP-PROJECT-COMP2021/Command-Line_Vector_Graphics_Software.git)
 - [Workshops Enrollment System in Python](https://github.com/zhangwengyu999/Workshops_Enrollment_System_Project.git)
-- [Visit all project...](https://ultrafish.cn/project)
+- [View all project...](https://ultrafish.cn/project)
 
 ---
 
