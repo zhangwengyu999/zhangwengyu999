@@ -40,6 +40,8 @@ More about me on:
 - [CV Chain - A Curriculum Vitae System based on Blockchain](https://github.com/Unhackable-PolyHack2022/CV-Chain.git)
 - [Game of Life - Implementation of the Conway's Game of Life in JavaScript with React](https://github.com/zhangwengyu999/Game_of_Life.git)
 - [UltraFish](https://ultrafish.cn), [UltraFish Plus](https://plus.ultrafish.cn)
+- [Jungle Game](https://github.com/zhangwengyu999/Jungle_Game_Project)  
+- [Library Management System](https://github.com/zhangwengyu999/Library_Management_System_Project)  
 - [Command-Line Vector Graphics Software in Java](https://github.com/OOP-PROJECT-COMP2021/Command-Line_Vector_Graphics_Software.git)
 - [Workshops Enrollment System in Python](https://github.com/zhangwengyu999/Workshops_Enrollment_System_Project.git)
 - [View all project...](https://ultrafish.cn/project)
@@ -47,11 +49,26 @@ More about me on:
 ---
 
 ### 🌱 Currently Learning:
-- Data Structure and Algorithm
-- React
+- Shell
+- Computer Networking
 - Machine Learning
-- Database System
-- ...
+- Computer Vision
+- Data Structure and Algorithm
+
+---
+
+### 😄 Interested in:
+
+Academic Field
+- **Java Development**
+- **Web Development**
+- **Machine Learning**
+- **Algorithm**
+
+Extracurricular Activities
+- **Video Shooting & Editing & Production**
+- **Photography**
+- **Table Tennis**
 
 <!-- 
 - 🔭 I’m currently working on ...
