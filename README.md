@@ -18,10 +18,10 @@ More about me on:
 
 ### 💻 Developer & User & Learner of
 - Programming: 
-  - **Java** ⭐, **Python** ⭐, **R**, **C++**
+  - **Java** ⭐, **Python** ⭐, **C/C++**, **Bash Shell**, **R**, **HTML5**, **CSS**, **JavaScript**, 
 
-- Web Development: 
-  - **HTML5**, **CSS**, **JavaScript**, [Hexo](https://hexo.io/), [**React-Bootstrap**](https://react-bootstrap.github.io/)
+- Framework:
+  - PyTorch, Hexo, React, [Hexo](https://hexo.io/), [**React-Bootstrap**](https://react-bootstrap.github.io/)
 
 - Electronics: 
   - **Arduino**, **Micro-Python**
@@ -49,21 +49,20 @@ More about me on:
 ---
 
 ### 🌱 Currently Learning:
-- Shell
+- Operation Systems
 - Computer Networking
 - Machine Learning
 - Computer Vision
-- Data Structure and Algorithm
 
 ---
 
 ### 😄 Interested in:
 
 Academic Field
+- **Machine Learning**
 - **Java Development**
 - **Web Development**
-- **Machine Learning**
-- **Algorithm**
+
 
 Extracurricular Activities
 - **Video Shooting & Editing & Production**
