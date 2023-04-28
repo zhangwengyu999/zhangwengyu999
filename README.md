@@ -1,5 +1,5 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="50px"> Hi, I'm ZHANG Wengyu (張翁漁), Mike
-- A undergraduate student at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) 
+- An undergraduate student at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) 
   - **Major in [Computer Science](https://www.polyu.edu.hk/comp/)**;
   - Minor in [Electronic Engineering](https://www.polyu.edu.hk/eie/);
 - The co-founder of [lighTag](https://github.com/lighTag-UWB);
