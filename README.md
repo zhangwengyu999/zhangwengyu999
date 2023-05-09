@@ -4,15 +4,15 @@
   - Minor in [Electronic Engineering](https://www.polyu.edu.hk/eie/);
 - The co-founder of [lighTag](https://github.com/lighTag-UWB);
 - The co-founder of [CV Chain](https://cvchain.skyproton.com/);
-- The founder and author of [UltraFish](https://ultrafish.cn) and [UltraFish Plus](https://plus.ultrafish.cn);
+- The founder and author of [UltraFish](https://ultrafish.io) and [UltraFish Plus](https://plus.ultrafish.io);
 - A developer;
 
 More about me on:
 
-#### 🌐 Personal Homepage: [Mike.ultrafish.cn](https://mike.ultrafish.cn)
-#### 🌐 Blog Website: [UltraFish.cn](https://ultrafish.cn)
-#### 🌐 Learning Topics: [ultrafish.cn/Topics](https://ultrafish.cn/topics)
-#### 🌐 Project & Research: [ultrafish.cn/Project](https://ultrafish.cn/project/#/)
+#### 🌐 Personal Homepage: [Mike.ultrafish.io](https://mike.ultrafish.io)
+#### 🌐 Blog Website: [UltraFish.io](https://ultrafish.io)
+#### 🌐 Learning Topics: [ultrafish.io/Topics](https://ultrafish.io/topics)
+#### 🌐 Project & Research: [ultrafish.io/Project](https://ultrafish.io/project/#/)
 
 ---
 
@@ -39,12 +39,12 @@ More about me on:
 - [lighTag - An UWB Positioning System Integrated in Lighting System and its Applications](https://github.com/lighTag-UWB/lighTag)
 - [CV Chain - A Curriculum Vitae System based on Blockchain](https://github.com/Unhackable-PolyHack2022/CV-Chain.git)
 - [Game of Life - Implementation of the Conway's Game of Life in JavaScript with React](https://github.com/zhangwengyu999/Game_of_Life.git)
-- [UltraFish](https://ultrafish.cn), [UltraFish Plus](https://plus.ultrafish.cn)
+- [UltraFish](https://ultrafish.io), [UltraFish Plus](https://plus.ultrafish.io)
 - [Jungle Game](https://github.com/zhangwengyu999/Jungle_Game_Project)  
 - [Library Management System](https://github.com/zhangwengyu999/Library_Management_System_Project)  
 - [Command-Line Vector Graphics Software in Java](https://github.com/OOP-PROJECT-COMP2021/Command-Line_Vector_Graphics_Software.git)
 - [Workshops Enrollment System in Python](https://github.com/zhangwengyu999/Workshops_Enrollment_System_Project.git)
-- [View all project...](https://ultrafish.cn/project)
+- [View all project...](https://ultrafish.io/project)
 
 ---
 
