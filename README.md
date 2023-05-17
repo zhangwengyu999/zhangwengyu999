@@ -40,18 +40,19 @@ More about me on:
 - [CV Chain - A Curriculum Vitae System based on Blockchain](https://github.com/Unhackable-PolyHack2022/CV-Chain.git)
 - [Game of Life - Implementation of the Conway's Game of Life in JavaScript with React](https://github.com/zhangwengyu999/Game_of_Life.git)
 - [UltraFish](https://ultrafish.io), [UltraFish Plus](https://plus.ultrafish.io)
+- [Sign Language Recognition by SVM](https://github.com/zhangwengyu999/Sign_Language_Recognition_SVM.git)
+- [Appointment Organizer Project](https://github.com/zhangwengyu999/Appointment_Organizer_Project.git)
+- [Multi-thread Web Server Project](https://github.com/zhangwengyu999/Multi-thread_Web_Server_Project.git)
 - [Jungle Game](https://github.com/zhangwengyu999/Jungle_Game_Project)  
-- [Library Management System](https://github.com/zhangwengyu999/Library_Management_System_Project)  
-- [Command-Line Vector Graphics Software in Java](https://github.com/OOP-PROJECT-COMP2021/Command-Line_Vector_Graphics_Software.git)
-- [Workshops Enrollment System in Python](https://github.com/zhangwengyu999/Workshops_Enrollment_System_Project.git)
 - [View all project...](https://ultrafish.io/project)
 
 ---
 
 ### 🌱 Currently Learning:
-- Operation Systems
-- Computer Networking
-- Machine Learning
+
+- Virtual Human
+- Emotion Recognition
+- System Programming
 - Computer Vision
 
 ---
