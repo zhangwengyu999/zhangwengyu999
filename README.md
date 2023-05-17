@@ -40,10 +40,10 @@ More about me on:
 - [CV Chain - A Curriculum Vitae System based on Blockchain](https://github.com/Unhackable-PolyHack2022/CV-Chain.git)
 - [Game of Life - Implementation of the Conway's Game of Life in JavaScript with React](https://github.com/zhangwengyu999/Game_of_Life.git)
 - [UltraFish](https://ultrafish.io), [UltraFish Plus](https://plus.ultrafish.io)
+- [Fashion Image Generation Project](https://github.com/zhangwengyu999/Fashion_Image_Generation_Project.git)  
 - [Sign Language Recognition by SVM](https://github.com/zhangwengyu999/Sign_Language_Recognition_SVM.git)
 - [Appointment Organizer Project](https://github.com/zhangwengyu999/Appointment_Organizer_Project.git)
 - [Multi-thread Web Server Project](https://github.com/zhangwengyu999/Multi-thread_Web_Server_Project.git)
-- [Jungle Game](https://github.com/zhangwengyu999/Jungle_Game_Project)  
 - [View all project...](https://ultrafish.io/project)
 
 ---
