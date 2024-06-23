@@ -1,7 +1,6 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="50px"> Hi, I'm ZHANG Wengyu (張翁漁), Mike
-- An undergraduate student at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) 
-  - **Major in [Computer Science](https://www.polyu.edu.hk/comp/)**;
-  - Minor in [Electronic Engineering](https://www.polyu.edu.hk/eie/);
+- An **undergraduate student** at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/) major in [Computer Science](https://www.polyu.edu.hk/comp/);
+- A **student assistant** in the [PolySmart Group](https://polysmartgroup.github.io/) of [Research Centre for Data Sciences & Artificial Intelligence (RC-DSAI)](https://rc-dsai.comp.polyu.edu.hk/) at PolyU
 - The co-founder of [lighTag](https://github.com/lighTag-UWB);
 - The co-founder of [CV Chain](https://cvchain.skyproton.com/);
 - The founder and author of [UltraFish](https://ultrafish.io) and [UltraFish Plus](https://plus.ultrafish.io);
@@ -9,10 +8,11 @@
 
 More about me on:
 
-#### 🌐 Personal Homepage: [Mike.ultrafish.io](https://mike.ultrafish.io)
-#### 🌐 Blog Website: [UltraFish.io](https://ultrafish.io)
-#### 🌐 Learning Topics: [ultrafish.io/Topics](https://ultrafish.io/topics)
-#### 🌐 Project & Research: [ultrafish.io/Project](https://ultrafish.io/project/#/)
+#### 🌐 Homepage: [wengyuzhang.com](https://wengyuzhang.com)
+#### 🌐 Blog: [UltraFish.io](https://ultrafish.io)
+#### 🌐 Learning: [ultrafish.io/Topics](https://ultrafish.io/topics)
+#### 🌐 Project: [wengyuzhang.com/projects/](https://wengyuzhang.com/projects/)
+#### 🌐 Research: [wengyuzhang.com/publications/](https://wengyuzhang.com/publications/)
 
 ---
 
