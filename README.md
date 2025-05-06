@@ -22,10 +22,7 @@ More about me on: [Homepage](https://wy-z.com) | [Blog](https://ultrafish.io) | 
 
 ### 😄 Interested in:
 
-Academic Field
 - **Computer Vision**, **Large Language Models**, **AI for Science**
-
-Extracurricular Activities
 - **Video Shooting & Editing & Production**, **Photography**, **Table Tennis**
 
 ---
