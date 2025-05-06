@@ -4,9 +4,7 @@
 - The founder and author of [UltraFish](https://ultrafish.io) and [UltraFish Plus](https://plus.ultrafish.io);
 - A developer and researcher
 
-More about me on:
-
-[Homepage](https://wy-z.com) | [Blog](https://ultrafish.io) | [Learning](https://ultrafish.io/topics) | [Projects](https://wengyuzhang.com/projects/) | [Publications](https://wengyuzhang.com/publications/)
+More about me on: [Homepage](https://wy-z.com) | [Blog](https://ultrafish.io) | [Learning](https://ultrafish.io/topics) | [Projects](https://wengyuzhang.com/projects/) | [Publications](https://wengyuzhang.com/publications/)
 
 ---
 
@@ -32,6 +30,4 @@ Extracurricular Activities
 
 ---
 
-### 🛠️ Projects I've done:
-- [(View all projects ...)](https://wengyuzhang.com/projects/)
-
+### 🛠️ Projects I've done: [(view more)](https://wengyuzhang.com/projects/)
